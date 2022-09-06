@@ -2,7 +2,7 @@
 - 👀 I’m interested in business information technology management and sustainability
 - 🌱 I’m currently learning python and SQL in preparation for business/data analyst roles
 - 💞️ I’m looking to collaborate on data visualization and  machine learning projects
-- 📫 How to reach me:
+- 📫 Find me here 
   Email: jimmy.pham1506@gmail.com | 
   Linkedin: https://www.linkedin.com/in/jimmyp1506/
 
